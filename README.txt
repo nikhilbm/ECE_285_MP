@@ -6,7 +6,7 @@ The aim of this project is to classify human protein into 28 different categorie
 Requirements
 ============
 
-Download the data from demo.7z file and upload to Jupyter notebook before running the demo. 
+Download the data from Data folder and upload to Jupyter notebook before running the demo. 
 
 Code organization
 =================
