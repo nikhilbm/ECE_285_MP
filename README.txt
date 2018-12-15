@@ -11,12 +11,11 @@ Download the data from demo.7z file and upload to Jupyter notebook before runnin
 Code organization
 =================
 
-demo.7z             --    This data contains 30 minibatches of train data, 10 minibatches of validation data and 10 minibatches                           of test data. Size of each minibatch is 12. Required to run demo.ipynb.
+demo.7z             --    This data contains 30 minibatches of train data, 10 minibatches of validation data and 10 minibatches of test data. Size of each minibatch is 30. Required to run demo.ipynb.
 
 
 
 demo.ipynb          --    After uploading the demo.7z data onto your Jupiter notebook, run our code to get F1 score on test and 
-
 
 train data.
 
