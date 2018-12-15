@@ -12,7 +12,7 @@ Code organization
 =================
 Data Folder - Contains images necessary to run the demo folder.
 
-demo.ipynb          --   Download the files from the Data folder and upload onto your Jupiter notebook, run our code to get F1 score on test and train data.
+demo.ipynb          --   Download the files from the Data folder and upload onto your Jupiter notebook, run our code to get F1 score on test and train data. ****NOTE ALSO DISPLAYS THE SUCCESSFULLY CLASSIFIED IMAGES AND FAILURES AS WELL *****
 
 
 final_code.ipynb   --    Run the code to train, validate and test data of our model. Uses data which is locally uploaded to our                          jupyter notebook. It will not run with data from UCSD DSMLP. Note that full data cannot be provided due to size constraints.
